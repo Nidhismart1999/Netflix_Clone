@@ -1,6 +1,6 @@
 # Netflix_Clone
  This is the clone of Netflix Website
- Visit Netflix clone website:
+ Visit Netflix_clone website:  https://nidhismart1999.github.io/Netflix_Clone/
 # technologies :
 HTML5 
 CSS3
